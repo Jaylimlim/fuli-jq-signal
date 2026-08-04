@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04",
+ "updated": "2026-08-03",
  "strategy": "etf-rotation",
  "note": "ETF板块轮动信号·复利前30名个股→18板块ETF集中度榜·B=Σ(31−名次)",
  "board": {
